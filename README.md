@@ -2,12 +2,20 @@
 
 **Luz e Cena** é um site de cinema onde o usuário pode conhecer os filmes em cartaz, buscar por títulos, ver detalhes de cada sessão e aproveitar promoções, como combos de ingresso e pipoca. O projeto foi desenvolvido como parte dos estudos de front-end com React e TypeScript.
 
+<p>
+  <img src="public/imagens_readme/site_01.png" width="300">
+  <img src="public/imagens_readme/site_02.png" width="300">
+  <img src="public/imagens_readme/site_03.png" width="300">
+  <img src="public/imagens_readme/site_04.png" width="300">
+  <img src="public/imagens_readme/site_05.png" width="300">
+</p>
+
 ## ✨ Funcionalidades
 
 - **Catálogo de filmes** com cards que exibem o pôster e as informações de cada título.
 - **Busca por título** para encontrar rapidamente um filme em cartaz.
 - **Banners promocionais** (destaque principal e combos), responsivos para desktop, tablet e mobile.
-- **Newsletter** para receber novidades e a programação do cinema.
+- **Newsletter** para receber noviSdades e a programação do cinema.
 - **Cabeçalho com navegação** e atalhos para perfil e carrinho.
 - **Rodapé** com informações institucionais, redes sociais (Instagram, TikTok e WhatsApp) e créditos.
 
